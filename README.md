@@ -1,6 +1,6 @@
-# 杨希杰的个人网站
+# yyyxx6的个人网站
 
-<https://yang-xijie.github.io>
+<https://yyyxx6.github.io>
 
 - 生成 [MkDocs](https://www.mkdocs.org) 
 - 主题 [Material](https://github.com/squidfunk/mkdocs-material)
