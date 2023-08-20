@@ -6,16 +6,16 @@ site_description: yyyxx6的个人主页
 
 # [Navigtion]
 nav:
-  - Demo一级标题目录
+  - Demo一级标题目录:
     - Demo/index.md
 
-  - 测试中文
+  - 测试中文:
     - 测试中文/index.md
     - 一级目录:
       - 测试中文/index.md
-      - 二级目录1:
+    - 二级目录1:
         - 测试中文/二级目录1/具体内容1.md
-      - 二级目录2:
+    - 二级目录2:
         - 测试中文/二级目录2/具体内容2.md
 
   - 开发:
