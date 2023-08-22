@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a3258b0997781cf3",
+        "id": "6d9be597a1816545",
         "type": "tabs",
         "children": [
           {
-            "id": "f9929cdd97fe6c7b",
+            "id": "5783e26a5841e560",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "index.md"
+              }
             }
           }
         ]
@@ -138,9 +146,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f9929cdd97fe6c7b",
+  "active": "5783e26a5841e560",
   "lastOpenFiles": [
-    "测试中文/index.md",
-    "index.md"
+    "测试中文/二级目录2/具体内容2.md",
+    "测试中文/二级目录1/具体内容1.md",
+    "网站/help.md",
+    "网站/index.md",
+    "网站/test.md",
+    "网站/腾讯云.md",
+    "index.md",
+    "网站",
+    "WEBSITE/build.md",
+    "WEBSITE/index.md",
+    "WEBSITE/test.md",
+    "WEBSITE/help.md",
+    "测试中文/index.md"
   ]
 }

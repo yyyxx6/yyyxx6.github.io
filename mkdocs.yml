@@ -18,6 +18,11 @@ nav:
     - 二级目录2:
         - 测试中文/二级目录2/具体内容2.md
 
+  - 网站:
+    - 网站/index.md # 访客打开网站第一个看到的是 docs/index.md（会报错 The following pages exist in the docs directory, but are not included in the "nav" configuration: index.md 不要紧）  如果访客之后想要重新看到这个界面  可以在 docs/WEBSITE/index.md 找到
+    - 网站/help.md
+    - 网站/test.md
+
   - 开发:
     - DEV/index.md
     - Three:
@@ -51,12 +56,6 @@ nav:
         - DEV/Programming/C/final.md
         - DEV/Programming/C/stdout-fflush.md
         - DEV/Programming/C/watch-matrix.md
-
-  - 网站:
-    - WEBSITE/index.md # 访客打开网站第一个看到的是 docs/index.md（会报错 The following pages exist in the docs directory, but are not included in the "nav" configuration: index.md 不要紧）  如果访客之后想要重新看到这个界面  可以在 docs/WEBSITE/index.md 找到
-    - WEBSITE/build.md
-    - WEBSITE/help.md
-    - WEBSITE/test.md
 
 
 
