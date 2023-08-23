@@ -6,9 +6,17 @@ tags: sit
 
 # 腾 - 讯 - 云 
 140.143.120.197
-## [宝塔面板](http://140.143.120.197:3390/rSc2wtgS/)
 ## [Frps](http://140.143.120.197:3002/static/#/)
 
 # Local
 ## [Syncthing](http://127.0.0.1:8384/)
-## [DDNS](http://localhost:9876/)
+## [DDNS](http://127.0.0.1:9876/)
+
+# HP
+## [宝塔HP](http://140.143.120.197:3005/vOIqKstcFsd/)
+
+
+
+
+
+

@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "249f91285a55eddd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "网站/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -148,13 +160,13 @@
   },
   "active": "5783e26a5841e560",
   "lastOpenFiles": [
+    "网站/index.md",
+    "index.md",
     "测试中文/二级目录2/具体内容2.md",
     "测试中文/二级目录1/具体内容1.md",
     "网站/help.md",
-    "网站/index.md",
     "网站/test.md",
     "网站/腾讯云.md",
-    "index.md",
     "网站",
     "WEBSITE/build.md",
     "WEBSITE/index.md",
